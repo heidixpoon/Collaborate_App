@@ -1,15 +1,8 @@
-Inspiration for Article Intro Effects
+CollaboRATE
 =========
 
-Some inspiration for article intro effects on headers and fullscreen images.
+A Startup Weekend Education Austin Project
 
-[Article on Codrops](http://tympanus.net/codrops/?p=19119)
+An web application for professors and college student to aggregate questions and comments on lecture and course material.
 
-[Demo](http://tympanus.net/Tutorials/ArticleIntroEffects/)
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: [License](http://tympanus.net/codrops/licensing/)
-
-
-[© Codrops 2014](http://www.codrops.com)
+Static Version: http://chairman-mole-51814.bitballoon.com/
